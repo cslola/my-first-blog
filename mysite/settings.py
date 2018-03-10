@@ -25,7 +25,7 @@ SECRET_KEY = 'z_f3o2__&3ef43opg4alt42d70#efsvr5g!zv^2v@12v6jm%^9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1''mininartera.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'mininartera.pythonanywhere.com']
 
 
 # Application definition
